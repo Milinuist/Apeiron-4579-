@@ -1,9 +1,11 @@
 # Apeiron-4579-
+EN
+
 Apeiron-4579 Encryption bot
 
 Web  https://ais-pre-h2tf7glmxzpjwv3ttvi7mz-169537240765.europe-west2.run.app/
 
-Telegram Bot @Apeiron4579_Bot
+Telegram Bot @Apeiron4579_Bot https://t.me/Apeiron4579_Bot
 
 👋 Hello, User!
 
@@ -23,3 +25,31 @@ INITIATE: APEIRON-4579 [Sync-Lock: Active]
 3. Decryption: To decrypt the text, send the command:
 /decrypt <encrypted_text> <TQB_key>
 (Example: /decrypt Δ-J'mbø-∑9 :: ₣-Hv3rn-Ω TQB-4579-A8F2-5)
+
+
+RU
+
+Шифрование Apeiron-4579
+
+Web https://ais-pre-h2tf7glmxzpjwv3ttvi7mz-169537240765.europe-west2.run.app/
+
+Telegram-бот @Apeiron4579_Bot https://t.me/Apeiron4579_Bot
+
+👋 Привет, Пользователь!
+
+Я официальный крипто-лингвистический бот Apeiron-4579.
+
+Я могу кодировать сообщения в зашифрованный, защищенный временем (Time-Lock) язык, который не подлежит расшифровке до 4579 года без специального ключа.
+
+🔒 Инструкция по использованию:
+1. Отправь мне фразу-триггер для начала сессии:
+INITIATE: APEIRON-4579 [Sync-Lock: Active]
+
+2. Шифрование: Отправь любой текст на русском или английском языке, и я сгенерирую для тебя:
+   • Текст-Режим (визуальный шифр)
+   • Вокал-Режим (фонетическую читку для произношения)
+   • TQB-ключ сессии для последующей расшифровки.
+
+3. Расшифровка: Чтобы расшифровать текст обратно, отправь команду:
+/decrypt <зашифрованный_текст> <ключ_TQB>
+(Пример: /decrypt Δ-J'mbø-∑9 :: ₣-Hv3rn-Ω TQB-4579-A8F2-5)
